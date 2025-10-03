@@ -22,7 +22,7 @@ This project implements an **Online Library Management System** using **Object-O
 | **User** | Represents a user with an ID, name, borrowing limit, and record of borrowed books. |
 | **Library** | Manages collections of books and users, providing methods for all library operations and searches. |
 
-The design follows OOP principles including encapsulation, abstraction, and modularity, ensuring maintainable and scalable code.
+The design follows OOP principles such as encapsulation, abstraction, and modularity, ensuring maintainable and scalable code.
 
 ---
 
