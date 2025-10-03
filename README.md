@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) – C++
+# Object-Oriented Programming (OOP)
 
 This repository contains projects and assignments developed as part of the **Object-Oriented Programming (OOP)** unit at **Zetech University**.  
 The focus is on applying OOP principles in **C++**, including **classes, encapsulation, inheritance, polymorphism, and abstraction**.  
